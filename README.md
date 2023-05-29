@@ -24,3 +24,16 @@ With this program 'Filtering an Image with a Convolution Kernel', the user can p
 + 14 - SCHARR VERTICAL
 + 15 - GAUSSIAN BLUR
 + 16 - EXECESSIVE EDGES
+
++"***************************************************"
++"* GMIT - Dept. Computer Science & Applied Physics *");
++"*                                                 *");
++"*           Image Filtering System V0.1           *");
++"*     H.Dip in Science (Software Development)     *");
++"*                                                 *");
++"***************************************************");
+"1) Enter Image Name"); //Ask user to specify the file to process. 
+"2) List of Filters"); //List the set of filters available in the class Kernel.java
+"3) Select A Filter"); //Ask user to specify the filter to process. 
+"4) Quit"); //Terminate
+"Select Option [1-4]>");
