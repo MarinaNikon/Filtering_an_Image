@@ -25,8 +25,7 @@ With this program 'Filtering an Image with a Convolution Kernel', the user can p
 +	15 - Gaussian Blur
 +	16 - Execessive Edges
 
-  
-  After runing the programm the user sees 5 options:  
+  Once the main menu is showing in the terminal the user will see five options to choose from:
    
 1. Enter Image Name (Ask user to specify the file to process). 
 2. List of Filters (List the set of filters available in the class Kernel.java)
